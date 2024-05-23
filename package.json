@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vtaits/react-color-picker": "^1.0.2"
+  }
+}
